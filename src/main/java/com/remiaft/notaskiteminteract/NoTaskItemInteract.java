@@ -40,6 +40,7 @@ public final class NoTaskItemInteract extends JavaPlugin implements Listener {
                 if (e.getCurrentItem() != null && hasLoreString(e.getCurrentItem(),"任务道具")){
                     e.setCancelled(true);
                 }
+
             }
         }
     }
