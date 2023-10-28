@@ -1,0 +1,4 @@
+name: NoTaskItemInteract
+version: '${version}'
+main: com.remiaft.notaskiteminteract.NoTaskItemInteract
+api-version: '1.18'
